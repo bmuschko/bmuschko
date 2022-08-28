@@ -13,7 +13,7 @@
 
 ##  My Books 📚
 
-<table border="0">
+<table border="none">
     <tr>
         <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a></td>
         <td>
