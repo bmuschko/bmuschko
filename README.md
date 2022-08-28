@@ -13,23 +13,10 @@
 
 ##  My Books 📚
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
 <table>
     <tr>
         <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a></td>
-        <td>
+        <td align="left">
             <ul>
                 <li>👉 <a href="https://amzn.to/39KqVxP" target="_blank">Buy my book on Amazon</a></li>
                 <li>👉 <a href="https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/" target="_blank">Read my book on O'Reilly Media</a></li>
@@ -38,7 +25,7 @@ blockquote {
     </tr>
     <tr>
         <td><a href="https://amzn.to/3ncOy5k" target="_blank"><img align="left" src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 20%;"></a></td>
-        <td>
+        <td align="left">
             <ul>
                 <li>👉 <a href="https://amzn.to/3ncOy5k" target="_blank">Buy my book on Amazon</a></li>
                 <li>👉 <a href="https://learning.oreilly.com/library/view/certified-kubernetes-application/9781492083726/" target="_blank">Read my book on O'Reilly Media</a></li>
@@ -47,7 +34,7 @@ blockquote {
     </tr>
     <tr>
         <td><a href="https://amzn.to/3xNUTJ9" target="_blank"><img align="left" src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 20%;"></a></td>
-        <td>
+        <td align="left">
             <ul>
                 <li>👉 <a href="https://amzn.to/3xNUTJ9" target="_blank">Buy my book on Amazon</a></li>
                 <li>👉 <a href="https://learning.oreilly.com/library/view/gradle-in-action/9781617291302/" target="_blank">Read my book on O'Reilly Media</a></li>
