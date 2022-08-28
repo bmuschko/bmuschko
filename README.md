@@ -12,8 +12,20 @@
 <a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="50" height="50"></a>
 
 ##  My Books 📚
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
 
-<table border="none">
+<table>
     <tr>
         <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a></td>
         <td>
