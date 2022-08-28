@@ -18,6 +18,7 @@
 <a href="https://amzn.to/3ncOy5k" target="_blank"><img align="left" src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 20%;"></a>
 <a href="https://amzn.to/3xNUTJ9" target="_blank"><img align="left" src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 20%;"></a>
 </div>
+</br>
 
 ##  My Certifications 🏅
 
