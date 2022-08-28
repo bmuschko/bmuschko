@@ -8,8 +8,8 @@
 
 ## Connect with Me On Social Media 🤝🏻
 
-<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" style="max-width: 50%;"></a>
-<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" style="max-width: 50%;"></a>
+<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" style="width: 50%;"></a>
+<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" style="width: 50%;"></a>
 
 ##  My Books 📚
 
@@ -18,7 +18,7 @@
         <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a></td>
         <td>
             <ul>
-                <li><a href="https://amzn.to/39KqVxP" target="_blank">Buy my book on Amazon</a></li>
+                <li>👉 <a href="https://amzn.to/39KqVxP" target="_blank">Buy my book on Amazon</a></li>
                 <li>👉 <a href="https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/" target="_blank">Read my book on O'Reilly Media</a></li>
             </ul>
         </td>
