@@ -15,16 +15,16 @@
 
 <table border="0">
     <tr>
-        <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="max-width: 20%;"></a></td>
+        <td><a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a></td>
         <td>
             <ul>
-                <li>👉 <a href="https://amzn.to/39KqVxP" target="_blank">Buy my book on Amazon</a></li>
+                <li><a href="https://amzn.to/39KqVxP" target="_blank">Buy my book on Amazon</a></li>
                 <li>👉 <a href="https://learning.oreilly.com/library/view/certified-kubernetes-administrator/9781098107215/" target="_blank">Read my book on O'Reilly Media</a></li>
             </ul>
         </td>
     </tr>
     <tr>
-        <td><a href="https://amzn.to/3ncOy5k" target="_blank"><img align="left" src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="max-width: 20%;"></a></td>
+        <td><a href="https://amzn.to/3ncOy5k" target="_blank"><img align="left" src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 20%;"></a></td>
         <td>
             <ul>
                 <li>👉 <a href="https://amzn.to/3ncOy5k" target="_blank">Buy my book on Amazon</a></li>
@@ -33,7 +33,7 @@
         </td>
     </tr>
     <tr>
-        <td><a href="https://amzn.to/3xNUTJ9" target="_blank"><img align="left" src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="max-width: 20%;"></a></td>
+        <td><a href="https://amzn.to/3xNUTJ9" target="_blank"><img align="left" src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 20%;"></a></td>
         <td>
             <ul>
                 <li>👉 <a href="https://amzn.to/3xNUTJ9" target="_blank">Buy my book on Amazon</a></li>
