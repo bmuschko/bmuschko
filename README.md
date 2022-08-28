@@ -8,8 +8,8 @@
 
 ## Connect with Me On Social Media 🤝🏻
 
-<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="100" height="100"></a>
-<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="100" height="100"></a>
+<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="50" height="50"></a>
+<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="50" height="50"></a>
 
 ##  My Books 📚
 
