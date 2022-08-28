@@ -4,7 +4,7 @@
 
 * 💡 I specialize in cloud-native application development and transformation, container solutions, DevSecOps, and Continuous Integration/Continuous Delivery implementations.
 * 👨‍🏫 Taught thousands of students on topics such as Kubernetes, Terraform, Jenkins, Gradle, and Bazel.
-* 📩 Reach out to me for consulting or training.
+* 📩 [Reach out](mailto:hello@automatedascent.com) to me for consulting or training.
 
 ## Connect with Me On Social Media 🤝🏻
 
