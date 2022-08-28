@@ -8,14 +8,14 @@
 
 ## Connect with Me On Social Media 🤝🏻
 
-<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="50" height="50"></a>
-<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="50" height="50"></a>
+<a href="https://www.linkedin.com/in/benjaminmuschko/" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a>
+<a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="40" height="40"></a>
 
 ##  My Books 📚
 
-<a href="https://amzn.to/39KqVxP" target="_blank"><img align="left" src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a>
-<a href="https://amzn.to/3ncOy5k" target="_blank"><img align="left" src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 20%;"></a>
-<a href="https://amzn.to/3xNUTJ9" target="_blank"><img align="left" src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 24%;"></a>
+<a href="https://amzn.to/39KqVxP" target="_blank"><img src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 20%;"></a>
+<a href="https://amzn.to/3ncOy5k" target="_blank"><img src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 20%;"></a>
+<a href="https://amzn.to/3xNUTJ9" target="_blank"><img src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 24%;"></a>
 
 ##  My Certifications 🏅
 
