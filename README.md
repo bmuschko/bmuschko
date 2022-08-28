@@ -12,6 +12,7 @@
 <a href="https://twitter.com/bmuschko" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter.png" width="50" height="50"></a>
 
 ##  My Books 📚
+
 <style>
 table {
     border-collapse: collapse;
