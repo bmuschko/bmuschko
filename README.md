@@ -19,7 +19,7 @@
 
 ##  My Certifications 🏅
 
-* [Certified Kubernetes AdministratorCertified Kubernetes Administrator](https://www.credly.com/badges/9a599e63-6155-422e-b169-8eaaed5369ab)
-* [Certified Kubernetes Application Developer](https://www.credly.com/badges/98ba0895-b669-47d5-8206-50b7223940e3)
+* [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9a599e63-6155-422e-b169-8eaaed5369ab)
+* [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/98ba0895-b669-47d5-8206-50b7223940e3)
 * [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/d571af1f-3557-4170-977f-84c0dd4d1c7a)
 * [Certified Jenkins Engineer](https://certificates.cloudbees.com/bisl3tzf)
