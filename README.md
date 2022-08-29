@@ -3,7 +3,7 @@
 ## **I'm an Independent Consultant, Trainer, and Autor.**
 
 * 💡 I specialize in cloud-native application development and transformation, container solutions, DevSecOps, and Continuous Integration/Continuous Delivery implementations.
-* 👨‍🏫 Taught thousands of students on topics such as Kubernetes, Terraform, Jenkins, Gradle, and Bazel.
+* 👨‍🏫 Taught thousands of students on topics, such as Kubernetes, Terraform, Jenkins, Gradle, and Bazel.
 * 📩 [Reach out](mailto:benjamin.muschko@automatedascent.com) to me for consulting or training.
 
 ## Connect with Me On Social Media 🤝🏻
