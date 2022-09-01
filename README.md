@@ -1,6 +1,6 @@
 # Hi, I'm Ben 👋🏻
 
-## **I'm an Independent Consultant, Trainer, and Autor.**
+## **I'm an Independent Consultant, Trainer, and Author.**
 
 * 💡 I specialize in cloud-native application development and transformation, container solutions, DevSecOps, and Continuous Integration/Continuous Delivery implementations.
 * 👨‍🏫 Taught thousands of students on topics, such as Kubernetes, Terraform, Jenkins, Gradle, Bazel, and Go.
