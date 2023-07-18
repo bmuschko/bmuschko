@@ -16,6 +16,7 @@
 ##  My Books 📚
 
 <a href="https://amzn.to/39KqVxP"><img src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 15%;"></a>
+<a href="https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971/"><img src="https://automatedascent.com/images/books/cks-study-guide.jpg" style="width: 15%;"></a>
 <a href="https://amzn.to/3ncOy5k"><img src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 15%;"></a>
 <a href="https://amzn.to/3xNUTJ9"><img src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 18%;"></a>
 
