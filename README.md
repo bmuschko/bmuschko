@@ -28,3 +28,10 @@
 * [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/d571af1f-3557-4170-977f-84c0dd4d1c7a)
 * [GitHub Actions Certified](https://www.credly.com/badges/96b903c0-8709-48d9-a2a2-6879695c256a)
 * [Certified Jenkins Engineer (CJE)](https://certificates.cloudbees.com/bisl3tzf)
+
+## Udemy Course Discount Coupons 💥
+
+| Course      | Coupon Code | Valid Until |
+| ----------- | ----------- | ----------- |
+| [GitHub Actions Certification Practice Exam](https://www.udemy.com/course/github-actions-certification-practice-exam/) | JAN2024 | Feb 21, 2024 |
+| [Certified Jenkins Engineer (CJE) Practice Exam 2023](https://www.udemy.com/course/certified-jenkins-engineer-practice-exam/) | JAN2024 | Feb 21, 2024 |
