@@ -18,6 +18,7 @@
 <a href="https://amzn.to/39KqVxP"><img src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 15%;"></a>
 <a href="https://www.amazon.com/Certified-Kubernetes-Security-Specialist-Depth/dp/1098132971/"><img src="https://automatedascent.com/images/books/cks-study-guide.jpg" style="width: 15%;"></a>
 <a href="https://amzn.to/3ncOy5k"><img src="https://automatedascent.com/images/books/ckad-study-guide.jpg" style="width: 15%;"></a>
+<a href="https://www.amazon.com/Certified-Kubernetes-Application-Developer-Study-ebook/dp/B0D4X23FSY"><img src="https://automatedascent.com/images/books/ckad-study-guide-2nd.jpg" style="width: 15%;"></a>
 <a href="https://amzn.to/3xNUTJ9"><img src="https://automatedascent.com/images/books/gradle-in-action.jpg" style="width: 18%;"></a>
 
 ##  My Certifications 🏅
