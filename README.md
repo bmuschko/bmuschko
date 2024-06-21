@@ -28,6 +28,7 @@
 * [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/98ba0895-b669-47d5-8206-50b7223940e3)
 * [Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/24cb66c7-74ac-461a-95a4-d272d42bfdaa)
 * [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/d571af1f-3557-4170-977f-84c0dd4d1c7a)
+* [HashiCorp Certified: Vault Associate](https://www.credly.com/badges/7e935870-6de7-46e2-8956-78bb2009041e)
 * [GitHub Actions Certified](https://www.credly.com/badges/96b903c0-8709-48d9-a2a2-6879695c256a)
 * [Certified Jenkins Engineer (CJE)](https://certificates.cloudbees.com/bisl3tzf)
 
