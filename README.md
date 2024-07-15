@@ -24,7 +24,7 @@
 ##  My Certifications 🏅
 
 * [Kubernetes and Cloud Native Associate (KCNA)](https://www.credly.com/badges/2cc07969-f289-4dac-bb57-f154901b0c22)
-* [Kubernetes and Cloud Native Security Associate (KCSA](https://www.credly.com/badges/6040361d-481e-4c5a-9243-806d4d416e5f)
+* [Kubernetes and Cloud Native Security Associate (KCSA)](https://www.credly.com/badges/6040361d-481e-4c5a-9243-806d4d416e5f)
 * [Certified Kubernetes Administrator (CKA)](https://www.credly.com/badges/9a599e63-6155-422e-b169-8eaaed5369ab)
 * [Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/98ba0895-b669-47d5-8206-50b7223940e3)
 * [Certified Kubernetes Security Specialist (CKS)](https://www.credly.com/badges/24cb66c7-74ac-461a-95a4-d272d42bfdaa)
