@@ -31,7 +31,7 @@
 * [HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/d571af1f-3557-4170-977f-84c0dd4d1c7a)
 * [HashiCorp Certified: Vault Associate](https://www.credly.com/badges/7e935870-6de7-46e2-8956-78bb2009041e)
 * [GitHub Actions Certified](https://www.credly.com/badges/96b903c0-8709-48d9-a2a2-6879695c256a)
-* [Certified Jenkins Engineer (CJE)](https://certificates.cloudbees.com/bisl3tzf)
+* [Certified Jenkins Engineer (CJE)](https://certificates.cloudbees.com/cd0e3338-9080-416b-aba2-3f75f9fe349f)
 
 ## Udemy Course Discount Coupons 💥
 
