@@ -38,4 +38,4 @@
 | Course      | Coupon Code | Valid Until |
 | ----------- | ----------- | ----------- |
 | [GitHub Actions Certification Practice Exam](https://www.udemy.com/course/github-actions-certification-practice-exam/) | NOV2024 | November 14, 2024 |
-| [Certified Jenkins Engineer (CJE) Practice Exam 2023](https://www.udemy.com/course/certified-jenkins-engineer-practice-exam/) | NOV024 | November 14, 2024 |
+| [Certified Jenkins Engineer (CJE) Practice Exam 2023](https://www.udemy.com/course/certified-jenkins-engineer-practice-exam/) | NOV2024 | November 14, 2024 |
