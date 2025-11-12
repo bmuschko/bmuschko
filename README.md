@@ -7,10 +7,6 @@
 * 👨‍🏫 Taught 1000+ students on topics, such as Kubernetes, Terraform, Jenkins, Gradle, Bazel, and Go.
 * 📩 [Reach out](mailto:benjamin.muschko@automatedascent.com) to me for consulting or training.
 
-## Connect with Me On Social Media 🤝🏻
-
-<a href="https://www.linkedin.com/in/benjaminmuschko/"><img src="https://img.icons8.com/color/96/000000/linkedin.png"  width="40" height="40"></a>
-
 ##  My Books 📚
 
 <a href="https://amzn.to/39KqVxP"><img src="https://automatedascent.com/images/books/cka-study-guide.jpg" style="width: 15%;"></a>
